@@ -1,1 +1,1 @@
-web: gunicorn dockerdemo:app
+web: gunicorn main:app
